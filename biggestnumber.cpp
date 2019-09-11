@@ -11,10 +11,10 @@ int main()
   int first = 0;
   int second = 0;
 
-  std::cout<<"Please enter a whole number: ";
+  std::cout<<"Please enter a whole number: "<<endl;
   cin>>first;
 
-  std::cout<<"Please enter another whole number: ";
+  std::cout<<"Please enter another whole number: "<<endl;
   cin>>second;
 
   //get second input using std::cin>> again with a second variable
