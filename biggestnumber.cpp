@@ -20,10 +20,10 @@ int main()
   //get second input using std::cin>> again with a second variable
 
   if (first > second)  {
-          std::cout<< "Of those two numbers, the biggest is " << first << endl;
+          std::cout<< "Of those two numbers, the biggest is: " << first << endl;
   }
   else if (second > first) {
-          std::cout<< "Of those two numbers, the biggest is " << second << endl;
+          std::cout<< "Of those two numbers, the biggest is: " << second << endl;
   }
   //determine if first or second is bigger and store that in a third variable
 
