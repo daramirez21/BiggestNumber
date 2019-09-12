@@ -25,12 +25,13 @@ int main()
   else if (second > first) {
           std::cout<< "Of those two numbers, the biggest is: " << second << endl;
   }
+  
   //determine if first or second is bigger and store that in a third variable
 
 
   //print out the variable representing the biggest number
 
-  std::cout<<std::endl<<"Thank you for playing.\n";
+  std::cout<< "Thank you for playing.\n";
   
   return 0;
 }
